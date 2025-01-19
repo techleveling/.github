@@ -1,0 +1,13 @@
+{
+    "name": "Techleveling Organization Workflow",
+    "description": "Techleveling CI workflow template.",
+    "iconName": "template.png",
+    "categories": [
+        "Go"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
