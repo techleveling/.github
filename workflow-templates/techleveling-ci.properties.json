@@ -3,7 +3,7 @@
     "description": "Techleveling CI workflow template.",
     "iconName": "template.png",
     "categories": [
-        "Development"
+        "Go"
     ],
     "filePatterns": [
         "package.json$",
